@@ -14,7 +14,7 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
 [![My Skills](https://skillicons.dev/icons?i=java,javascript,c,php)](https://skillicons.dev)
 
 ## 🧰 Frameworks: 
-[![My Skills](https://skillicons.dev/icons?i=jquery,laravel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=laravel)](https://skillicons.dev)
 
 ## 🗄️ Bancos de Dados: 
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
