@@ -3,6 +3,7 @@
 ## 💼 Perfil Profissional
 
 - 💻 Estudante de Programação
+- 💻 Full Stack Developer
 - 🌱 Apaixonado por Tecnologia
 - 🎓 Cursando [Sistemas de informação / UNOESTE]
 
