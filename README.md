@@ -22,6 +22,5 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
 ## ⚙️ Ferramentas:
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,visualstudio)](https://skillicons.dev)<br><br>
 
-![DiasEllen26 GitHub stats](https://github-readme-stats.vercel.app/api?username=mecperes&show_icons=true&theme=dark) <br><br>
-
 Me chama no linkedin qualquer coisa, bora crescer!
+https://www.linkedin.com/in/lucas-peres-781a6b284/
