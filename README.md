@@ -1,10 +1,11 @@
-# 👋 Salve! Me chamo Lucas Peres
+Salve! Sou o Lucas Peres
+💼 Sobre mim
 
-## 💼 Perfil Profissional
+🎓 Bacharel em Sistemas de Informação pela UNOESTE.
 
-- 💻 Estudante de Programação
-- 💻 Engenheiro de Software
-- 🎓 Cursando [Sistemas de informação / UNOESTE]
+💻 Software Engineer com foco em desenvolvimento backend, atuando no desenvolvimento, evolução e sustentação de sistemas corporativos, utilizando tecnologias como .NET, PHP, SQL e JavaScript.
+
+🚀 Tenho experiência em desenvolvimento de software, APIs REST, bancos de dados relacionais, otimização de consultas, integração de sistemas e resolução de problemas em ambientes de produção, sempre buscando escrever código limpo, escalável e de fácil manutenção.
 
 ## 🚀 Habilidades
 
