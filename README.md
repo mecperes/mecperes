@@ -1,4 +1,4 @@
-👋 Salve! Sou o Lucas Peres
+##👋 Salve! Sou o Lucas Peres
 
 🎓 Bacharel em Sistemas de Informação pela UNOESTE.
 
